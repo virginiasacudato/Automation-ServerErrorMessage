@@ -1,9 +1,0 @@
-[2976:10148:0825/154659.361:ERROR:device_event_log_impl.cc(214)] [15:46:59.361] Bluetooth: bluetooth_adapter_winrt.cc:1074 Getting Default Adapter failed.
-[2976:10148:0825/154721.288:INFO:CONSOLE(72)] "Uncaught TypeError: Cannot read properties of undefined (reading 'defaults')", source: http://localhost/Lenox/Content/Scripts/jGlobal.js (72)
-[2976:10148:0825/154721.318:INFO:CONSOLE(0)] "[DOM] Input elements should have autocomplete attributes (suggested: "current-password"): (More info: https://goo.gl/9p2vKq) %o", source: http://localhost/Lenox/Login (0)
-[2976:10148:0825/154737.623:INFO:CONSOLE(91)] "[object Object]", source: http://localhost/Lenox/Content/Scripts/jLoginMVC.js (91)
-[2976:10148:0825/154745.343:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[2976:10148:0825/154745.761:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[2976:10148:0825/154745.762:INFO:CONSOLE(1)] "Uncaught (in promise) TypeError: Failed to execute 'put' on 'Cache': Partial response (status code 206) is unsupported", source: https://web.whatsapp.com/serviceworker.js (1)
-[2976:10148:0825/154747.526:INFO:render_frame_host_impl.cc(11654)] RenderFrameHostImpl::MaybeGenerateCrashReport url = http://localhost/Lenox/Login, status = 4, exit_code = 258
-[2976:10148:0825/154747.622:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
